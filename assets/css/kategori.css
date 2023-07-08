@@ -1,0 +1,14 @@
+.card-text {
+  text-align: justify;
+}
+
+.btn {
+  background-color: var(--color-primary);
+  color: #fff;
+  padding: 10px 32px;
+  margin-top: 36px;
+}
+
+.btn:hover {
+  background-color: var(--color-secondary);
+}
